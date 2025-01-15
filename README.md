@@ -22,13 +22,13 @@ Puedes acceder al proyecto en la siguiente página:
 - CSS3 (Flexbox)
 
 ## Versionado
-Este proyecto utiliza un esquema de versionado **SemVer** para el control de versiones. Puedes encontrar las versiones disponibles en [repositorio de GitHub](https://github.com/Juanies/MaquetacionFLEX_Practica01c/blob/main/LICENSE).
+Este proyecto utiliza un esquema de versionado **SemVer** para el control de versiones. Puedes encontrar las versiones disponibles en [repositorio de GitHub](https://github.com/Juanies/MaquetacionFLEX_Practica01c/).
 
 ## Autores
 - **Juan Romero Viudez** - Desarrollo y diseño principal.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/Juanies/MaquetacionFLEX_Practica01c/) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/Juanies/MaquetacionFLEX_Practica01c/blob/main/LICENSE) para más detalles.
 
 ## Recursos Adicionales
 - Página del repositorio en GitHub: [MaquetacionFlex_Practica01c](https://github.com/juanies/MaquetacionFlex_Practica01c)
